@@ -23,7 +23,7 @@ function App() {
 
 
   }
-  return (
+  return (  
     <>
       <Navbar mode={mode} heading="Text Case Converter" toggle={togglebutton} text={text}/>
       <div className='container'>
